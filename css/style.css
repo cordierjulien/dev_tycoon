@@ -1,0 +1,24 @@
+#top, #mid{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#top{
+    font-size: 5vh;
+}
+
+#sous{
+    color: #EAD200;
+}
+
+#exp{
+    color: #7A2661;
+}
+
+.li{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
